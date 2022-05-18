@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning procedural generation - wave function collapse
+- 👯 I’m looking to collaborate on game development and docu-vlog it
+- 💬 Ask me about my woodworking tools
+- 📫 How to reach me: kentliau@gmail.com
+- 😄 Pronouns: he/him
+
 <!--
 **kentliau/kentliau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
