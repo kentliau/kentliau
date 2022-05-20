@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning procedural generation - wave function collapse
-- 👯 I’m looking to collaborate on game development and docu-vlog it
-- 💬 Ask me about my woodworking tools
+- 👯 I’m looking to collaborate on game development and/or adult industry
+- 💬 Ask me about my woodworking saws
 - 📫 How to reach me: kentliau@gmail.com
 - 😄 Pronouns: he/him
 
