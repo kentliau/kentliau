@@ -5,7 +5,7 @@
 - 💬 Ask me about my woodworking
 - 📫 How to reach me: kentliau@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am into teledildonics
+- ⚡ Fun fact: I pay for Sublime Text
 
 <!--
 **kentliau/kentliau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
