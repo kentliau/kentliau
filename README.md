@@ -2,10 +2,10 @@
 
 - 🌱 I’m currently learning procedural generation - wave function collapse
 - 👯 I’m looking to collaborate on game development
-- 💬 Ask me about my woodworking
+- 💬 Ask me about woodworking
 - 📫 How to reach me: kentliau@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I finally pay for Sublime Text after 10 years of evaluating
+- ⚡ Fun fact: I don't use time machine
 
 <!--
 **kentliau/kentliau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
