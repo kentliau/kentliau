@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on game development on free time
 - 📫 How to reach me: kentliau@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am morally flexible
+- ⚡ Fun fact: WordPress is inevitable
 
 <!--
 **kentliau/kentliau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
